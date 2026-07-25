@@ -1,0 +1,12 @@
+<!-- =========================================================================
+  @file AirliftExtended_Icons.xml
+  @brief Defines the notification icon used for a crash landing.
+  @author Legandy
+========================================================================== -->
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+    <IconDefinitions>
+        <!-- Death on Crash (ICON_NOTIFICATION_UNIT_LOST) -->
+        <Row Name="ICON_NOTIFICATION_LGY_AE_CRASH" Atlas="ICON_ATLAS_NOTIFICATIONS" Index="53"/>
+    </IconDefinitions>
+</GameData>
