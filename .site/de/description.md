@@ -1,23 +1,23 @@
 # Civilization 6 - Lufttransport Erweitert Mod
 <p align="center"><img src="https://raw.githubusercontent.com/Legandy/AirliftExtended/main/.site\icon.jpg" width="300" height="300">
 
-## DOWNLOADS:
+## Downloads:
 [Nexus Mods][nm]
 [Steam Workshop][sw]
 
-## BESCHREIBUNG
+## Beschreibung:
 Ein echter Schneller Einsatz ist jetzt möglich.
 Einheiten können nun direkt zu einem Flugplatz oder den angrenzenden Feldern transportiert werden.
 
-## VORAUSSETZUNGEN:
+## Voraussetzungen:
 - Flugplatz mit einem Flughafen
 - Die Ausrichtung Schneller Einsatz
 
-## KOSTEN:
+## Kosten:
 - 10 Öl pro transportierter Militär/Unterstützung/Religiöser/Militär Große Persönlichkeiten Einheit
 - Kostenlos für Siedler/Baumeister/Zivile Große Persönlichkeiten
 
-## STRAFE:
+## Strafe:
 - Jede fehlende Öleinheit verursacht bei der Landung +5 Schaden (Max 50)
 - Bei zu geringer Gesundheit kann die Einheit bei einer Bruchlandung ums Leben kommen
 
