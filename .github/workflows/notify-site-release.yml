@@ -1,0 +1,18 @@
+# Copy into each app or mod repo as .github/workflows/notify-site.yml.
+# It tells Cloudflare Pages to rebuild the website whenever a release changes,
+# so version, size, checksum and changelog stay current.
+#
+# Setup: Cloudflare Pages > your project > Settings > Builds > Deploy hooks > add a hook,
+# then save its URL as a secret named WEBSITE_DEPLOY_HOOK in the app repo.
+name: Notify website of release
+on:
+  release:
+    types: [published, edited, deleted]
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger website rebuild
+        env:
+          DEPLOY_HOOK: ${{ secrets.WEBSITE_DEPLOY_HOOK }}
+        run: curl -fsS -X POST "$DEPLOY_HOOK"
