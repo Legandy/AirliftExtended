@@ -1,11 +1,11 @@
-# AirliftExtended
+# Civilization 6 - Airlift Extended Mod
 <p align="center"><img src="https://raw.githubusercontent.com/Legandy/AirliftExtended/main/.site\icon.jpg" width="300" height="300">
 
-## Downaloads:
+## DOWNLOADS:
 [Nexus Mods][nm]
 [Steam Workshop][sw]
 
-## Description
+## DESCRIPTION
 Real Rapid Deployment is now possible.
 Units can now be airlifted directly to an Airstrip or its adjacent plots.
 
