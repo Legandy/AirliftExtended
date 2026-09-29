@@ -1,5 +1,5 @@
 # Civilization 6 - Lufttransport Erweitert Mod
-<p align="center"><img src="https://raw.githubusercontent.com/Legandy/AirliftExtended/main/.site/icon.jpg" width="300" height="300">
+![Icon](https://raw.githubusercontent.com/Legandy/AirliftExtended/main/.site/icon.jpg)
 
 ## Downloads:
 [Nexus Mods][nm]
